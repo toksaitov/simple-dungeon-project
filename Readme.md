@@ -3,7 +3,7 @@ Simple Dungeon Crawler
 
 ![Dungeon Crawler](https://i.imgur.com/kS2rLP9.png)
 
-The primary goal of these projects is to build a simple [Dungeon Crawler](https://en.wikipedia.org/wiki/Dungeon_crawl) game written in C++ using the [raylib](https://www.raylib.com) graphics library. In this game, the player navigates a character through a series of maze-like levels, collecting items, avoiding enemies, and solving puzzles.
+The primary goal of these projects is to build a simple [Dungeon Crawler](https://en.wikipedia.org/wiki/Dungeon_crawl) game written in C++ using the [raylib](https://www.raylib.com) graphics library. In this game, the player navigates a character through a series of maze-like levels, collecting items, avoiding enemies, and solving puzzles. You can watch a [video](https://drive.google.com/file/d/125PP44EdpvlHC7lhqUwaGIcbZf5uAXT5/view?usp=sharing) of the game in action.
 
 The game should adhere to the best structured and procedural programming principles. You should strive to effectively utilize structured programming constructs such as selection constructs and loops. Additionally, endeavor to achieve procedural decomposition of your code into functions. Ensure consistent formatting in your code, adhering to coding style best practices, including proper naming, indentation, use of white spaces, blank lines, and comments.
 
