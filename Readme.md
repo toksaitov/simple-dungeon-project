@@ -65,7 +65,7 @@ Be creative, and ensure to implement the following essential elements in your pr
 
 * Place your main game loop in the `dungeon.cpp` file, which should include `globals.h` and all other necessary header files.
 
-Upon completion, your `projects` directory should have an organized structure similar to the following example (you can provide a simple example or description here).
+Upon completion, your `projects` directory should have an organized structure similar to the following example:
 
 ```
 . (.idea, .gitignore, CMakeLists.txt, other lab dirs)
