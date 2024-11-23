@@ -7,8 +7,6 @@ The primary goal of these projects is to build a simple [Dungeon Crawler](https:
 
 The game should adhere to the best structured and procedural programming principles. You should strive to effectively utilize structured programming constructs such as selection constructs and loops. Additionally, endeavor to achieve procedural decomposition of your code into functions. Ensure consistent formatting in your code, adhering to coding style best practices, including proper naming, indentation, use of white spaces, blank lines, and comments.
 
-Use the provided [files](https://drive.google.com/file/d/1z5s3KgPg6p1eEv5OWEwB65_Of44786W4/view?usp=sharing) as a starting point for your game. You can modify the files as you see fit.
-
 Be creative, and ensure to implement the following essential elements in your project, as outlined below.
 
 ## Project #1
@@ -68,8 +66,8 @@ Be creative, and ensure to implement the following essential elements in your pr
 Upon completion, your `projects` directory should have an organized structure similar to the following example:
 
 ```
-. (.idea, .gitignore, CMakeLists.txt, other lab dirs)
-└── projects
+.
+└── <repository>
     ├── data
     │   ├── fonts
     │   │   └── ...
@@ -82,6 +80,7 @@ Upon completion, your `projects` directory should have an organized structure si
     ├── dungeon.cpp
     ├── globals.h
     ├── <various header files>.h
+    ├── ... (.idea, .gitignore, CMakeLists.txt, other directories)
     └── Readme.md
 ```
 
